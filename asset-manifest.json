@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Medieinstitutet_React_uppgift1/static/css/main.4b382eed.chunk.css",
+    "main.js": "/Medieinstitutet_React_uppgift1/static/js/main.c10ef28b.chunk.js",
+    "main.js.map": "/Medieinstitutet_React_uppgift1/static/js/main.c10ef28b.chunk.js.map",
+    "runtime-main.js": "/Medieinstitutet_React_uppgift1/static/js/runtime-main.5ebc2c8a.js",
+    "runtime-main.js.map": "/Medieinstitutet_React_uppgift1/static/js/runtime-main.5ebc2c8a.js.map",
+    "static/js/2.4cd9269d.chunk.js": "/Medieinstitutet_React_uppgift1/static/js/2.4cd9269d.chunk.js",
+    "static/js/2.4cd9269d.chunk.js.map": "/Medieinstitutet_React_uppgift1/static/js/2.4cd9269d.chunk.js.map",
+    "static/js/3.859dabd6.chunk.js": "/Medieinstitutet_React_uppgift1/static/js/3.859dabd6.chunk.js",
+    "static/js/3.859dabd6.chunk.js.map": "/Medieinstitutet_React_uppgift1/static/js/3.859dabd6.chunk.js.map",
+    "index.html": "/Medieinstitutet_React_uppgift1/index.html",
+    "static/css/main.4b382eed.chunk.css.map": "/Medieinstitutet_React_uppgift1/static/css/main.4b382eed.chunk.css.map",
+    "static/js/2.4cd9269d.chunk.js.LICENSE.txt": "/Medieinstitutet_React_uppgift1/static/js/2.4cd9269d.chunk.js.LICENSE.txt",
+    "static/media/pizza.d45c9440.jpg": "/Medieinstitutet_React_uppgift1/static/media/pizza.d45c9440.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc2c8a.js",
+    "static/js/2.4cd9269d.chunk.js",
+    "static/css/main.4b382eed.chunk.css",
+    "static/js/main.c10ef28b.chunk.js"
+  ]
+}
